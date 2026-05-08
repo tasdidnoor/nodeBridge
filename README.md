@@ -5,15 +5,15 @@ NodeBridge is an sshDevice based on the Raspberry Pi Pico that acts as a HID (Hu
 ## Product Gallery
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/Main" width="97%" alt="MainProduct" />
+  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/Main.png" width="97%" alt="MainProduct" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/withPico" width="97%" alt="withPico" />
+  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/withPico.png" width="97%" alt="withPico" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/3dSketch" width="97%" alt="3dSketch" />
+  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/3dSketch.png" width="97%" alt="3dSketch" />
 </p>
 
 ## Project Overview
@@ -25,11 +25,11 @@ The device also features an OLED display that provides visual feedback through l
 ### CasaOS Interface
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/CasaOsLogin" width="97%" alt="CasaOs Login" />
+  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/CasaOsLogin.png" width="97%" alt="CasaOs Login" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/CasaOsDashboard" width="97%" alt="CasaOs Dashboard" />
+  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/CasaOsDashboard.png" width="97%" alt="CasaOs Dashboard" />
 </p>
 
 ## Project Structure
