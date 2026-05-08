@@ -4,16 +4,10 @@ NodeBridge is an sshDevice based on the Raspberry Pi Pico that acts as a HID (Hu
 
 ## Product Gallery
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/Main.png" width="33%" alt="MainProduct" />
-</p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/withPico.png" width="33%" alt="withPico" />
-</p>
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/3dSketch.png" width="33%" alt="3dSketch" />
+  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/Main.png" width="32%" alt="MainProduct" />
+  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/withPico.png" width="32%" alt="withPico" />
+  <img src="https://raw.githubusercontent.com/tasdidnoor/Assets/main/nodeBridge/3dSketch.png" width="32%" alt="3dSketch" />
 </p>
 
 ## Project Overview
